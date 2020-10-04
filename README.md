@@ -69,3 +69,5 @@ For development you will also need the following libraries:
 Please see our [Contribution Guide](CONTRIBUTING.rst). 
 In particular, we love pull requests - but please make sure to sign 
 the contributor license agreement.
+
+[![Run on Repl.it](https://repl.it/badge/github/googleapis/google-api-python-client)](https://repl.it/github/googleapis/google-api-python-client)
